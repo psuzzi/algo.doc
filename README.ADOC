@@ -5,4 +5,5 @@ Test algo doc with cloud ide
 image::https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod[https://gitpod.io/#https://github.com/psuzzi/algo.doc]
 
 
-https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[Made with asciidoc] 
+https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[Made with asciidoc] and https://www.gitpod.io/[Gitpod]
+
