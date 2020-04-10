@@ -1,9 +1,0 @@
-= algo doc
-
-Test algo doc with cloud ide
-
-https://gitpod.io/#https://github.com/psuzzi/algo.doc[image::https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod]
-
-
-https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[Made with asciidoc] and https://www.gitpod.io/[Gitpod]
-
